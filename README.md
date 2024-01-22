@@ -1,9 +1,6 @@
 # We-Cafe-Merchant
 Clone the Git repository
 
-git clone https://gitlab.com/kshrd-10th-generation-ite/advanced-course/we-cafe-merchant/ios-ui.git
-
-
 After clone, go to GoogleService-Info to download file google service-info and add to file projects.
 After adding the GoogleService-Info file already, Please adding dependency Kingfisher
 and SVGKit into project package dependency.
